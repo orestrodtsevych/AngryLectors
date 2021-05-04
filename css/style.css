@@ -96,7 +96,7 @@ ul {
 }
 
 .color_for_text {
-    color: #fff;
+    color: black;
 }
 
 
@@ -148,6 +148,19 @@ button#trigger-overlay {
 
 .hedder-logo img {
     width: 40%;
+}
+
+.name {
+    width: 50%;
+    height: 70 px;
+}
+
+.pad {
+    padding-left: 120px;
+}
+
+.pad-two {
+    padding-right: 130px;
 }
 
 
