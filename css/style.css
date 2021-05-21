@@ -875,10 +875,30 @@ footer {
 }
 
 .machnics_img1 {
+	margin-top: 10%;
 	height: 600px;
-	margin-left: 35%;
-	align: right;
+	margin-right: 7%;
+	float:right;
 	}
+	
+.machnics_text1{
+	margin-top: 10%;
+	margin-left: 7%;
+}
+
+.mech_b_left{
+	text-align: right;
+	margin-top: 10%;
+	margin-right: 10%;
+}
+.mech_text_left{
+	text-align: right;
+	margin-right: 10%;
+}
+
+.mech_img_left{
+	margin-top: 10%;
+}
 
 /*--//footer --*/
 
@@ -1074,6 +1094,7 @@ footer {
     .about-txt-right {
         margin-top: 20px;
     }
+	
     .abut-secound-img {
         bottom: -22px;
         left: 22%;
