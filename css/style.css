@@ -901,6 +901,19 @@ footer {
 	margin-left: 14%;
 }
 
+.characters_img {
+	margin-top: 5%;
+	height: 600px;
+	margin-left: 15%;
+	float:left;
+	}
+	
+.characters_text{
+	margin-top: 10%;
+	margin-left: 2%;
+	
+}
+
 .mech_b_left{
 	text-align: right;
 	margin-top: 10%;
