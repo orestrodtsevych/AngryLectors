@@ -341,7 +341,7 @@ footer {
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
-    min-height: 300px;
+    min-height: 130px;
 }
 
 
@@ -1010,7 +1010,7 @@ footer {
         height: 614px;
     }
     .inner_page-banner {
-        min-height: 279px;
+        min-height: 130px;
     }
     .contact-forms input,
     .contact-forms textarea {
@@ -1085,7 +1085,7 @@ footer {
         height: 793px;
     }
     .inner_page-banner {
-        min-height: 267px;
+        min-height: 130px;
     }
     .contact_footer_grid_left h5 {
         font-size: 19px;
